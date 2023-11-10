@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter project<br>👯 I’m looking for intership<br>🌱 I’m currently learning flutter   
+🔭 I’m currently working on flutter project<br>👯 I’m looking for intership<br>🌱 I’m currently learning flutter    
  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.piotrus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piotrkorzeniewski) 
